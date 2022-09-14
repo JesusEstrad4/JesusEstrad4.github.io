@@ -18,6 +18,8 @@
 
 ![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/General/analizadorFIs.jpg)
 
+
+Tabla con datos tecnicos
 | Características de un analizador físico                                 |
 |-------------------------------------------------------------------------|
 | Interface con PC mediante USB                                           |
