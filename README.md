@@ -17,3 +17,11 @@
 :point_right:Los analizadores lógicos estan conectados a los componentes electronicos a través de mini pinzasde cocodrilo directamente a los pines individuales.
 
 ![alt text](https://raw.githubusercontent.com/JesusEstrad4/Sistemas-programables/main/General/analizadorFIs.jpg)
+
+| Características de un analizador físico                                 |
+|-------------------------------------------------------------------------|
+| Interface con PC mediante USB                                           |
+| Frecuencia de muestreo 24MHz (24 millones de capturas por segundo)      |
+| 8 canales de entrada                                                    |
+| Niveles lógicos de entrada entre 0 y 5 V                                |
+| Dependiendo del nalizador, este puede tener medidas de 55 x 288 x 44 mm |
